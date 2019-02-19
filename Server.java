@@ -105,7 +105,7 @@ class MultiThread implements Runnable{
             if(s.charAt(i) == ' '){
                 continue;
             }
-            if(s.charAt(i) >= '1' && s.charAt(i) <= '9'){
+            if(s.charAt(i) >= '0' && s.charAt(i) <= '9'){
 
                 k += s.charAt(i);
             }
