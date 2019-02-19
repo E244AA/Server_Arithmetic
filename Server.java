@@ -1,5 +1,3 @@
-package com.chat;
-
 import javax.xml.crypto.Data;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
